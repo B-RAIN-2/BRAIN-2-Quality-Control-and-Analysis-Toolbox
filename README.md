@@ -23,7 +23,7 @@ This repository contains a custom MATLAB-based toolbox developed for quality con
 
 1. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/BRAIN2-AnalysisToolbox.git
+   git clone https://github.com/B-RAIN-2/BRAIN-2-Quality-Control-and-Analysis-Toolbox
    ```
 2. Add the FieldTrip toolbox to your MATLAB path:
    ```matlab
