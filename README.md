@@ -75,8 +75,5 @@ We welcome contributions from the community. If you'd like to contribute, please
 Developed by Koorosh Mirpour, Senior Scientist at the Pouratian Lab, UT Southwestern, as part of the BRAIN^2 project.
 
 ## Citation
-TBA
-
 If you use this toolbox, please cite our publication:
-
 To be announced
