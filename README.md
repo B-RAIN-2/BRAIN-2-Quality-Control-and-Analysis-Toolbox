@@ -5,13 +5,7 @@
 
 This repository contains a custom MATLAB-based toolbox developed for quality control, visualization, and analysis of electrophysiological data, including Electrocorticography (ECoG) and Deep Brain Stimulation (DBS) recordings. The toolbox provides an integrated approach for preprocessing, quality control, visualization, and spectral analysis, ensuring data integrity and reliability. The toolbox uses the FieldTrip toolbox for preprocessing and enables both time-domain and frequency-domain inspections to validate data quality before proceeding with in-depth analysis.
 
-The features of this toolbox include:
-
-- Visualization of raw electrophysiological data with optional high/low-pass filtering.
-- Flexible quality control using normalization techniques and outlier removal.
-- Frequency-domain analysis using a multi-taper method to generate Power Spectral Density (PSD) plots.
-
-This tool has been used as part of the BRAIN^2 project, focusing on functional neurosurgery and the visualization of ECoG and DBS data, as detailed in our publication (refer to Figure 7 for example outputs).
+**Disclaimer:** This is an example code to demonstrate dataset visualization. The preprocessing, analysis, and pipeline configuration used here **do not represent the formal recommendations of the Pouratian lab**.
 
 ## Features
 
@@ -66,7 +60,9 @@ Refer to **Figure 7** in our B(RAIN)^2 publication for example output visualizat
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This toolbox is part of the BRAIN^2 project and follows the guidelines provided by the Pouratian Lab at UT Southwestern. Access to and use of the BRAIN^2 database should comply with its specific terms of use.
+
+For more information on the BRAIN^2 database, please visit the BRAIN^2 Database at: https://dabi.loni.usc.edu/brain2
 
 ## Contributing
 
@@ -79,6 +75,7 @@ We welcome contributions from the community. If you'd like to contribute, please
 Developed by Koorosh Mirpour, Senior Scientist at the Pouratian Lab, UT Southwestern, as part of the BRAIN^2 project.
 
 ## Citation
+TBA
 
 If you use this toolbox, please cite our publication:
 
