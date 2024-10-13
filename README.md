@@ -62,7 +62,7 @@ Refer to **Figure 7** in our B(RAIN)^2 publication for example output visualizat
 
 This toolbox is part of the BRAIN^2 project and follows the guidelines provided by the Pouratian Lab at UT Southwestern. Access to and use of the BRAIN^2 database should comply with its specific terms of use.
 
-For more information on the BRAIN^2 database, please visit the BRAIN^2 Database at: https://dabi.loni.usc.edu/brain2
+For more information on the BRAIN^2 database, please visit [the BRAIN^2 Database](https://dabi.loni.usc.edu/brain2)
 
 ## Contributing
 
@@ -75,5 +75,4 @@ We welcome contributions from the community. If you'd like to contribute, please
 Developed by Koorosh Mirpour, Senior Scientist at the Pouratian Lab, UT Southwestern, as part of the BRAIN^2 project.
 
 ## Citation
-If you use this toolbox, please cite our publication:
-To be announced
+If you use this toolbox, please cite [the BRAIN^2 Database](https://dabi.loni.usc.edu/brain2)
